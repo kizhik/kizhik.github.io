@@ -12,9 +12,9 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">Mnemonics Training: Multi-Class Incremental Learning without Forgetting</a></div>
-    <div class="author"><strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun</div>
-    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.</em></div>
+    <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">ASdb: A System for Classifying Owners of Autonomous Systems</a></div>
+    <div class="author">M. Ziv,L. Izhikevich,K. Ruth,<strong>K. Izhikevich</strong>, Z. Durumeric</div>
+    <div class="periodical"><em>In ACM Internet Measurement Conference (IMC), 2021.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
