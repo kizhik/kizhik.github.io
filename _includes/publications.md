@@ -7,7 +7,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="/assets/img/origins_sreenshot.png" class="origins" width="250" height="300">
+    <img src="/assets/img/origins_sreenshot.png" class="origins" width="125" height="150">
     <abbr class="badge">Origins</abbr>
   </div>
 
@@ -26,7 +26,7 @@
   <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="/assets/img/group_screenshot.png" class="group" width="250" height="300">
+    <img src="/assets/img/group_screenshot.png" class="group" width="125" height="150">
     <abbr class="badge">Group</abbr>
   </div>
 
@@ -46,7 +46,7 @@
 <div class="pub-row">
   
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="/assets/img/asdb_screenshot.png" class="asdb" width="250" height="300">
+    <img src="/assets/img/asdb_screenshot.png" class="asdb" width="125" height="150">
     <abbr class="badge">ASdb</abbr>
   </div>
 
