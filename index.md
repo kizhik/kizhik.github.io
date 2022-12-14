@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Master's Student in Computer Science at the Jacobs School of Engineering at UC San Diego. I am co-advised by [Geoff Voelker](https://cseweb.ucsd.edu/~voelker/) and [Stefan Savage](https://cseweb.ucsd.edu/~savage/) at [Sysnet](https://www.sysnet.ucsd.edu/sysnet/). I received my B.S. in Mathematics-Computer Science at UCSD in 2022. You can find my sister's website here: [Liz Izhikevich](https://lizizhikevich.github.io/).
+I am a Master's Student in Computer Science at UC San Diego. I am co-advised by [Geoff Voelker](https://cseweb.ucsd.edu/~voelker/) and [Stefan Savage](https://cseweb.ucsd.edu/~savage/) at [Sysnet](https://www.sysnet.ucsd.edu/sysnet/). I received my B.S. in Mathematics-Computer Science from UCSD in 2022. In my free time I enjoy listening to music, dancing, reading, writing, and hiking. My favorite hiking buddy is, coincidentally, a big collaborator of mine. You can find her website here: [Liz Izhikevich](https://lizizhikevich.github.io/).
 
 {% include_relative _includes/publications.md %}
 
