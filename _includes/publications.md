@@ -12,7 +12,7 @@
     <div class="periodical"><em>Science</em></div>
     <div class="links">
       <a href="/assets/files/finalPhylogenetics.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://www.science.org/doi/10.1126/science.abp8337" class="btn btn-sm z-depth-0" role="button" target="_blank" background-color="#008CBA" style="font-size:12px;">Link</a>
+      <a href="https://www.science.org/doi/10.1126/science.abp8337" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Link</a>
     </div>
   </div>
     </div>
@@ -27,7 +27,7 @@
     <div class="periodical"><em>In Proceedings of the 2022 ACM Conference on International Computing Education Research V.1 (ICER 2022), 2022.</em></div>
     <div class="links">
       <a href="/assets/files/finalGroupDynamics.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://dl.acm.org/doi/10.1145/3501385.3543959" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Link</a>
+      <a href="https://dl.acm.org/doi/10.1145/3501385.3543959" class="btn btn-primary active" role="button" target="_blank" style="font-size:12px;">Link</a>
     </div>
   </div>
   </div>
