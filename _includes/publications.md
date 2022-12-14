@@ -6,11 +6,6 @@
 <li>
 <div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="/assets/img/origins_sreenshot.png" class="origins" width="125" height="150">
-    <abbr class="badge">Origins</abbr>
-  </div>
-
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title"><strong>The molecular epidemiology of multiple zoonotic origins of SARS-CoV-2.</strong></div>
     <div class="author">Pekar JE, Magee A, Parker E, Moshiri N, <strong>Izhikevich K</strong>, Havens JL, Gangavarapu K, Malpica Serrano LM, Crits-Christoph A, Matteson NL, Zeller M, Levy JI, Wang JC, Hughes S, Lee J, Park H, Park MS, Ching Zi Yan K, Tzer Pin Lin R, Mat Isa MN, Muhammad Noor Y, Vasylyeva TI, Garry RF, Holmes EC, Rambaut A, Suchard MA, Andersen KG, Worobey M, Wertheim JO</div>
@@ -25,10 +20,6 @@
   
   <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="/assets/img/group_screenshot.png" class="group" width="125" height="150">
-    <abbr class="badge">Group</abbr>
-  </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title"><strong>Exploring Group Dynamics in a Group-Structured Computing Undergraduate Research Experience</strong></div>
@@ -44,11 +35,7 @@
   
   <li>
 <div class="pub-row">
-  
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="/assets/img/asdb_screenshot.png" class="asdb" width="125" height="150">
-    <abbr class="badge">ASdb</abbr>
-  </div>
+
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title"><strong>ASdb: A System for Classifying Owners of Autonomous Systems</strong></div>
