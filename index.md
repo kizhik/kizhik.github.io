@@ -17,7 +17,7 @@ I am a Master's Student in Computer Science at UC San Diego. I am co-advised by 
     - Collaborating with Prof. [Christine Alvarado](https://sites.google.com/a/eng.ucsd.edu/alvarado/) and [Kyeling Ong](https://www.linkedin.com/in/kyeling) on studying how under-represented minorities, women, and transfer students experience the [CSE Early Research Scholars Program](https://ersp.eng.ucsd.edu/) at UCSD. See ICER '22 publication above. 
 - **Bioinformatics:** [August 2021 - February 2022]
     - Collaborating with Prof. [Niema Moshiri](https://niema.net), Dr. [Joel Wertheim](https://profiles.ucsd.edu/joel.wertheim), and PhD student [Jonathan Pekar](https://dbmi.ucsd.edu/people/students.html#Jonathan-Pekar) on the phylogenetics of early SARS-CoV-2 by simulating epidemics to determine how transmission dynamics affect the phylogenetic structure of SARS-CoV-2 and viral outbreaks more generally. See *Science* publication above. 
-- **Stanford Emperical Security Research Group:** [August 2020 - May 2021]
+- **Stanford Empirical Security Research Group:** [August 2020 - May 2021]
     - See IMC '21 publication above. 
 
 ## Teaching
