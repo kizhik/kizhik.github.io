@@ -8,7 +8,7 @@
 
   
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="/assets/img/asdb_screenshot.png" class="origins" width="250" height="300">
+    <img src="/assets/img/origins_sreenshot.png" class="origins" width="250" height="300">
     <abbr class="badge">Origins</abbr>
   </div>
 
