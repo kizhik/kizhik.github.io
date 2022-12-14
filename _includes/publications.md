@@ -12,7 +12,7 @@
     <div class="periodical"><em>Science</em></div>
     <div class="links">
       <a href="/assets/files/finalPhylogenetics.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://www.science.org/doi/10.1126/science.abp8337" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Link</a>
+      <a href="https://www.science.org/doi/10.1126/science.abp8337" class="btn btn-sm z-depth-0" role="button" target="_blank" background-color="#008CBA" style="font-size:12px;">Link</a>
     </div>
   </div>
     </div>
