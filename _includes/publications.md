@@ -12,15 +12,12 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">ASdb: A System for Classifying Owners of Autonomous Systems</a></div>
-    <div class="author">M. Ziv,L. Izhikevich,K. Ruth,<strong>K. Izhikevich</strong>, Z. Durumeric</div>
+    <div class="title"><strong>ASdb: A System for Classifying Owners of Autonomous Systems</strong></div>
+    <div class="author">M. Ziv, L. Izhikevich, K. Ruth, <strong>K. Izhikevich</strong>, Z. Durumeric</div>
     <div class="periodical"><em>In ACM Internet Measurement Conference (IMC), 2021.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+      <a href="/assets/files/finalASdb.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://asdb.stanford.edu/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
