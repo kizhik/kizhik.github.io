@@ -47,11 +47,8 @@
       <a href="https://asdb.stanford.edu/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
-  
 </div>
 </li>
-  
-<br>
 
 </ol>
 </div>
